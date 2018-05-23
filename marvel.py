@@ -42,4 +42,4 @@ while True :
 
 print "\n you have chosen "+marvelchar[input1-1]+' and '+marvelchar[input2-1]
 sum = sum + score[input2-1]+score[input1-1]
-print 'your total score out of 100(which is all characters together) is :',sum
+print 'your total score out of 100(which is all characters together) is :',sum 
